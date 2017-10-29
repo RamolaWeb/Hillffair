@@ -1,4 +1,5 @@
 # Hillffair
+"The annual cultural extravaganza of NIT Hamirpur."
 
 [![Join the chat at https://gitter.im/appteam-nith/Hillffair](https://badges.gitter.im/appteam-nith/Hillffair.svg)](https://gitter.im/appteam-nith/Hillffair?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
